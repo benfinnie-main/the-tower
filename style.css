@@ -18,7 +18,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-color:darkgrey;
+    /*background-color:darkgrey;*/
 }
 
 .entire-page {
@@ -84,6 +84,7 @@ a:hover, a:active {
 
 .sidebar-list-item:hover {
     background-color:darkgrey;
+    transition-duration: 0.5s;
 }
 
 .sidebar-spacer {
