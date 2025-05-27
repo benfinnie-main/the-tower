@@ -17,9 +17,9 @@ a:link, a:visited {
     text-decoration: none;
 }
 
-a:hover, a:active {
-    /*background-color:darkgrey;*/
-}
+/*a:hover, a:active {
+    background-color:darkgrey;
+}*/
 
 .entire-page {
     display: flex;
